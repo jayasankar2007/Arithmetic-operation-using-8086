@@ -104,7 +104,8 @@ END
 
 #### Manual Calculations
 
-<img width="1280" height="649" alt="image" src="https://github.com/user-attachments/assets/5978975d-70d4-49e9-b21f-22f9e46a5f2b" />
+![photo_2025-08-24_09-18-23](https://github.com/user-attachments/assets/f4a408b7-c3eb-4c2b-a9c3-b9d4ee9f8066)
+
 
 
 
@@ -207,7 +208,7 @@ END
 |       1203: 34          |        1207: 00          |
 
 #### Manual Calculations
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d149dc2d-e17c-43ee-ac54-42f3f8ec679b" />
+![photo_2025-08-24_09-18-23 (2)](https://github.com/user-attachments/assets/05ab91c2-bf2b-4248-a539-bd3b9b533797)
 
 
 

@@ -28,7 +28,8 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 
 ## FLOW CHART
-<img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
+<img width="321" height="750" alt="image" src="https://github.com/user-attachments/assets/29ba5374-3a53-4fa6-b48e-4459cca19dd8" />
+
 
 
 #### Program
@@ -64,7 +65,8 @@ END
 
 #### Manual Calculations
 
-<img width="624" height="1280" alt="image" src="https://github.com/user-attachments/assets/839c2e85-0554-4d1f-857e-93885be70898" />
+<img width="312" height="640" alt="481343710-839c2e85-0554-4d1f-857e-93885be70898" src="https://github.com/user-attachments/assets/f0919bf2-cbb4-4e1f-af3b-8c8b9afef1e3" />
+
 
 
 
@@ -104,7 +106,7 @@ END
 
 #### Manual Calculations
 
-![photo_2025-08-24_09-18-23](https://github.com/user-attachments/assets/f4a408b7-c3eb-4c2b-a9c3-b9d4ee9f8066)
+<img width="402" height="793" alt="image" src="https://github.com/user-attachments/assets/50d5e982-20f2-429d-85e6-5eee055b24fd" />
 
 
 
@@ -126,7 +128,8 @@ END
 
 ##FLOWCHART
 
-<img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
+<img width="406" height="646" alt="image" src="https://github.com/user-attachments/assets/8d2420b2-febd-40f2-a482-b859c46f7c93" />
+
 
 
 
@@ -159,7 +162,8 @@ END
 |       1203: 34          |        1207: 0A          |
 
 #### Manual Calculations
-<img width="1061" height="1280" alt="image" src="https://github.com/user-attachments/assets/bc65c34c-6a8d-4302-b6d9-cb222b478c4b" />
+<img width="546" height="658" alt="image" src="https://github.com/user-attachments/assets/9d530dc5-f288-48e7-8c1a-51ec66ff7b6e" />
+
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -176,7 +180,7 @@ END
 3. Store result.
 
    ## FLOWCHART
-<img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
+<img width="397" height="595" alt="image" src="https://github.com/user-attachments/assets/1876f31f-4394-4078-bd24-234d314c5eeb" />
 
 
 #### Program
@@ -208,7 +212,7 @@ END
 |       1203: 34          |        1207: 00          |
 
 #### Manual Calculations
-![photo_2025-08-24_09-18-23 (2)](https://github.com/user-attachments/assets/05ab91c2-bf2b-4248-a539-bd3b9b533797)
+<img width="462" height="615" alt="image" src="https://github.com/user-attachments/assets/089e06eb-90fe-449b-8017-95e26290d323" />
 
 
 

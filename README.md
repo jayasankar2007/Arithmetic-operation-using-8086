@@ -31,7 +31,6 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 <img width="321" height="750" alt="image" src="https://github.com/user-attachments/assets/29ba5374-3a53-4fa6-b48e-4459cca19dd8" />
 
 
-
 #### Program
 
 ```asm
@@ -66,7 +65,6 @@ END
 #### Manual Calculations
 
 <img width="312" height="640" alt="481343710-839c2e85-0554-4d1f-857e-93885be70898" src="https://github.com/user-attachments/assets/f0919bf2-cbb4-4e1f-af3b-8c8b9afef1e3" />
-
 
 
 

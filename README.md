@@ -90,7 +90,7 @@ END
 
 
 #### Program
-
+```asm
 CODE SEGMENT
 ASSUME CS: CODE, DS: CODE
 ORG 1000H
@@ -108,7 +108,7 @@ MOV AH,4CH
 INT 21H
 CODE ENDS
 END
-
+```
 
 #### Output Table
 
